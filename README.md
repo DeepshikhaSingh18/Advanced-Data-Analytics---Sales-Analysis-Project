@@ -26,12 +26,12 @@ Dataset: Orders and transactions data (sales, customers, products)
   - Segmented customers into groups (High Value, Medium Value, Low Value).
   - Helped identify priority customers.
 ### 6. Customer Report
-  Built a report including:
+ - Built a report including:
       Customer Lifetime Value (CLV)
       Average Order Value (AOV)
       Repeat purchases
 ### 7. Product Report
-  Built a report covering:
+  - Built a report covering:
       Best-selling products
       Seasonal trends
       Profit contribution by category
