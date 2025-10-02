@@ -18,7 +18,7 @@ Dataset: Orders and transactions data (sales, customers, products)
   - Calculated running totals of revenue and customers.
   - Tracked business growth trajectory
 ### 3. Performance Analysis
-  -Compared performance by region, category, and product line.
+  - Compared performance by region, category, and product line.
   - Highlighted top-performing areas.
 ### 4. Part-to-Whole Analysis
   - Calculated percentage contribution of each category/customer to total revenue.
@@ -27,14 +27,14 @@ Dataset: Orders and transactions data (sales, customers, products)
   - Helped identify priority customers.
 ### 6. Customer Report
   Built a report including:
-    - Customer Lifetime Value (CLV)
-    - Average Order Value (AOV)
-    - Repeat purchases
+      Customer Lifetime Value (CLV)
+      Average Order Value (AOV)
+      Repeat purchases
 ### 7. Product Report
   Built a report covering:
-    - Best-selling products
-    - Seasonal trends
-    - Profit contribution by category
+      Best-selling products
+      Seasonal trends
+      Profit contribution by category
 ## 📈 Key Insights
 Revenue Growth: Consistent upward trend in total sales over time.
 Top Categories: Certain product categories contributed disproportionately to total revenue.
