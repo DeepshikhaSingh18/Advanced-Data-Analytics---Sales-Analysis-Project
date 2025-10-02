@@ -14,9 +14,8 @@ Dataset: Orders and transactions data (sales, customers, products)
 ### 1. Changes Over Time
   - Analyzed sales and customer growth across months/years.
   - Identified upward and downward trends.
-2. Cumulative Analysis
-
-### 2. Calculated running totals of revenue and customers.
+### 2. Cumulative Analysis
+  - Calculated running totals of revenue and customers.
   - Tracked business growth trajectory
 ### 3. Performance Analysis
   -Compared performance by region, category, and product line.
